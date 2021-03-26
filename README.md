@@ -33,6 +33,6 @@ Transfer Learning
 ##### Notebook
 3_Arabic_MNIST_TransferLearning_VGG16.ipynb
 ##### Prez
-2- Transfer Learning.pdf
+3- Transfer Learning.pdf
 ##### Quiz
-
+https://play.kahoot.it/v2/?quizId=0c09c978-935a-43b5-a084-e1ab2cf0dda5
