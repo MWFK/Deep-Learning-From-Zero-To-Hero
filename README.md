@@ -36,3 +36,7 @@ Transfer Learning
 3- Transfer Learning.pdf
 ##### Quiz
 https://play.kahoot.it/v2/?quizId=0c09c978-935a-43b5-a084-e1ab2cf0dda5
+
+### Fifth until Eighth Session
+##### Subject Forecasting
+Check 4- Forecasting
