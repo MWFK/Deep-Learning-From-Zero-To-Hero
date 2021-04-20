@@ -2,6 +2,8 @@
 ##### This is a series of Workshops that covers many topics in Deep Learning through simple use cases.  
 ##### Many of the studying matrials are from https://www.coursera.org/professional-certificates/tensorflow-in-practice
 
+### Next
+Stay tuned for more content...
 Videos to be uploaded briefly...
 
 ### First Session
