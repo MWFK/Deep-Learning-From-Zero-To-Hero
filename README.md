@@ -1,6 +1,7 @@
 # Deep-Learning-From-Zero-To-Hero
 ##### This is a series of Workshops that covers many topics in Deep Learning through simple use cases.  
-##### Many of the studying matrials are from https://www.coursera.org/professional-certificates/tensorflow-in-practice
+##### Most of the studying matrials are from https://www.coursera.org/professional-certificates/tensorflow-in-practice
+https://github.com/minus--/arabic-letters-tutorial
 
 ### Next
 Stay tuned for more content...
